@@ -1,4 +1,6 @@
 # react-nextflix-clone
+**URL:** https://netflix-clone-98ee0.web.app/
+
 ## ScreenShot
  ![Image of Netflix Clone](http://prtkgoswami.github.io/repo/resources/imgs/netflix-clone.PNG)
  
